@@ -1,2 +1,0 @@
-# tigerlx.github.io
-myBlog
